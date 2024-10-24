@@ -53,6 +53,7 @@
         <version>3.4.0</version>
         <configuration>
           <webappDirectory>/sample/servlet/container/deploy/directory</webappDirectory>
+          <failOnMissingWebXml>false</failOnMissingWebXml>
         </configuration>
       </plugin>      
       <plugin>
